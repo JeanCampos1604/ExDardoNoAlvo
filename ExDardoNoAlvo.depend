@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601424648 source:c:\users\usuario\onedrive\Área de trabalho\jean\lp\exdardonoalvo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
